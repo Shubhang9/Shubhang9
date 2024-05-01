@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shubhang9
-- 👀 I’m interested in Apps and Web application development and ML/AI/DL
+- 👀 I’m interested in Apps, Web application development and ML/AI/DL
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on intersting projects
 - 📫 How to reach me shubhangs009@gmail.com
